@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Massachusetts, 2017-2022 (expected)
+  * Advisor: Professor Andrew S. Lan
+* M.S. in Electrical Engineering, Indian Institute of Science, 2012-2014
+  * Advisor: Professor P.S. Sastry
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Research Intern, Machine Learning
+  * Adobe Research, San Jose, CA, USA
+  * Optimal Bidding Strategy in Real-time Bidding System
+  * Supervisor: Dr. Vishy Swaminathan, Dr. Saayan Mitra, Dr. Somdeb Sarkhel
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2018: Research Intern, Data Science
+  * Adobe Research, San Jose, CA, USA
+  * Bid landscape forecasting in Real-time Bidding System
+  * Supervisor: Dr. Vishy Swaminathan, Dr. Saayan Mitra, Dr. Somdeb Sarkhel
+
+* July 2014 - August 2017: Software Engineer 2
+  * Microsoft Corporation, Bangalore, India
+  * Selection and Relevance Algorithms in Sponsored Search (Bing Ads/ Microsoft Advertising)
+  * Supervisor: Rahul Agrawal
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, C, Java, C#, Matlab, R
+* PyTorch, Tensorflow
 
 Publications
 ======
@@ -42,18 +44,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
