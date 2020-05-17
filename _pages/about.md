@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in computer science at [UMass Amherst](https://www.cics.umass.edu/), advised by [Professor Andrew Lan](https://people.umass.edu/~andrewlan/). Previously, I was a Software Engineer at [Microsoft IDC, Bangalore](https://www.microsoft.com/en-in/msidc/bangalore-campus.aspx); before that, I completed my Master in Electrical Engineering at the [Indian Institute of Science, Bangalore](http://www.ee.iisc.ac.in/), advised by [Professor P.S. Sastry](http://www.ee.iisc.ac.in/faculty/sastry/).
+I am a Ph.D. student in Computer science at [UMass Amherst](https://www.cics.umass.edu/), advised by [Professor Andrew Lan](https://people.umass.edu/~andrewlan/). Previously, I was a Software Engineer at [Microsoft, Bangalore](https://www.microsoft.com/en-in/msidc/bangalore-campus.aspx); before that, I completed my Master in Electrical Engineering at the [Indian Institute of Science, Bangalore](http://www.ee.iisc.ac.in/), advised by [Professor P.S. Sastry](http://www.ee.iisc.ac.in/faculty/sastry/).
 
 I have a broad interest in Machine/Deep learning, Graphical models, and Reinforcement learning. My Ph.D. research mainly focuses on learning sequential models from large-scale (unlabeled) data. Besides, I am also interested in more theoretical questions from a learning perspective, such as robust learning under label noise.
 
