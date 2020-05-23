@@ -17,7 +17,7 @@ I have a broad interest in Machine/Deep learning, Graphical models, and Reinforc
 
 **Updates**
 <div class="posts-wrapper">
-    <div class="post" style="width:700px;height:200px;border:1px solid;overflow:auto">
+    <div class="post" style="width:750px;height:200px;border:1px solid;overflow:auto">
         <ul class="news">
             <li><strong>May 2020: </strong>paper on knowledge tracing to appear at <a href="https://www.kdd.org/kdd2020/">KDD 2020</a>. Paper/codes/data will be released soon.
             </li>
