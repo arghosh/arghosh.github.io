@@ -1,6 +1,7 @@
-* **Context-Aware Attentive Knowledge Tracing**
+* **[Context-Aware Attentive Knowledge Tracing](https://arxiv.org/pdf/2007.12324.pdf)**
 : **Aritra Ghosh**, Neil Heffernan, and Andrew S Lan.
 : Proceedings of the 2020 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2020 (KDD).
+: [Code](https://github.com/arghosh/AKT)
 
 * **[Optimal Bidding Strategy without Exploration in Real-time Bidding Bidding](https://arxiv.org/pdf/2004.00100)**
 : **Aritra Ghosh**, Saayan Mitra, Somdeb Sarkhel, and Viswanathan Swaminathan.
