@@ -42,4 +42,7 @@ Publications
 ======
 {% include papers.md %}
 
+Service
+======
+* Program Committee Member: AAAI 2021, WACV 2021
 

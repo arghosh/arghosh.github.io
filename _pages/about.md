@@ -19,7 +19,9 @@ I have a broad interest in Machine/Deep learning, Graphical models, and Reinforc
 <div class="posts-wrapper">
     <div class="post" style="width:750px;height:200px;border:1px solid;overflow:auto">
         <ul class="news">
-            <li><strong>Sep 2020: </strong>will be serving as Program committee member for <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a>.
+            <li><strong>Nov 2020: </strong>paper on optimal career trajectory modeling to appear at <a href="https://bigdataieee.org/BigData2020/">IEEE Big Data 2020</a>. Paper/codes will be released soon.
+            </li>
+            <li><strong>Sep 2020: </strong>will be serving as Program committee member for <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a> and <a href="http://wacv2021.thecvf.com/home">WACV 2021</a> .
             </li>
             <li><strong>Aug 2020: </strong>selected for <a href="https://www.kdd.org/kdd2020/">KDD 2020</a> Student Award!
             </li>
