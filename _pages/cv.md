@@ -45,4 +45,5 @@ Publications
 Service
 ======
 * Program Committee Member: AAAI 2021, WACV 2021
+* Conference Volunteer: ICML 2020, NeurIPS 2021
 
