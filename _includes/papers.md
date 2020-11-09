@@ -1,3 +1,13 @@
+* **[Do We Really Need Gold Samples for Sample Weighting under Label Noise?](http://wacv2021.thecvf.com/home)**
+: **Aritra Ghosh**, and Andrew  Lan.
+: Proceedings of the 2021 IEEE Winter Conference on Applications of Computer Vision, 2021 (WACV).
+: [Code](https://github.com/arghosh/RobustMW-Net)
+
+* **[Skill-based Career Path Modeling and Recommendation](https://bigdataieee.org/BigData2020/)**
+: **Aritra Ghosh**, Beverly Woolf, Shlomo Zilberstein, and Andrew Lan.
+: Proceedings of the 2020 IEEE International Conference on Big Data (Big Data), 2020 (IEEE BigData).
+: [Code](https://github.com/arghosh/MNSS)
+
 * **[Context-Aware Attentive Knowledge Tracing](https://arxiv.org/pdf/2007.12324.pdf)**
 : **Aritra Ghosh**, Neil Heffernan, and Andrew S Lan.
 : Proceedings of the 2020 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2020 (KDD).
