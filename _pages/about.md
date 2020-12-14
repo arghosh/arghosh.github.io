@@ -19,6 +19,8 @@ I have a broad interest in Machine/Deep learning, Graphical models, and Reinforc
 <div class="posts-wrapper">
     <div class="post" style="width:800px;height:200px;border:1px solid;overflow:auto">
         <ul class="news">
+            <li><strong>Dec 2020: </strong>honored to get the <strong>Best Student Paper Award</strong> at <a href="https://bigdataieee.org/BigData2020/">IEEE Big Data 2020</a>.
+            </li>
             <li><strong>Nov 2020: </strong>won the personalized question selection task in  <a href="https://competitions.codalab.org/competitions/25449">NeurIPS 2020 Education Challenge</a>. Implementation is publicly <a href="https://github.com/arghosh/NeurIPSEducation2020">available</a>.
             </li>
             <li><strong>Nov 2020: </strong>paper on robust sample reweighting strategy without gold samples to appear at <a href="http://wacv2021.thecvf.com/home">WACV 2021</a>. Paper/codes will be released soon.
