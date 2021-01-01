@@ -1,4 +1,4 @@
-* **[Do We Really Need Gold Samples for Sample Weighting under Label Noise?](http://wacv2021.thecvf.com/home)**
+* **[Do We Really Need Gold Samples for Sample Weighting under Label Noise?](https://openaccess.thecvf.com/content/WACV2021/papers/Ghosh_Do_We_Really_Need_Gold_Samples_for_Sample_Weighting_Under_WACV_2021_paper.pdf)**
 : **Aritra Ghosh**, and Andrew  Lan.
 : Proceedings of the 2021 IEEE Winter Conference on Applications of Computer Vision, 2021 (WACV).
 : [Code](https://github.com/arghosh/RobustMW-Net)
