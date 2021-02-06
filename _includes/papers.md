@@ -13,7 +13,7 @@
 : Proceedings of the 2020 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2020 (KDD).
 : [Code](https://github.com/arghosh/AKT)
 
-* **[Optimal Bidding Strategy without Exploration in Real-time Bidding Bidding](https://arxiv.org/pdf/2004.00100)**
+* **[Optimal Bidding Strategy without Exploration in Real-time Bidding](https://arxiv.org/pdf/2004.00100)**
 : **Aritra Ghosh**, Saayan Mitra, Somdeb Sarkhel, and Viswanathan Swaminathan.
 : Proceedings of the 2020 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2020 (SIAM SDM).
 
