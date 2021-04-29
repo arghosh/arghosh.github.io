@@ -1,3 +1,18 @@
+* **[BOBCAT: Bilevel Optimization-Based Computerized Adaptive Testing](https://ijcai-21.org/)**
+: **Aritra Ghosh**, and Andrew  Lan.
+: Proceedings of the 30th International Conference on Artificial Intelligence, 2021 (IJCAI).
+: [Code](https://github.com/arghosh/BOBCAT)
+
+* **[Contrastive Learning Improves Model Robustness Under Label Noise](https://arxiv.org/abs/2104.08984)**
+: **Aritra Ghosh**, and Andrew  Lan.
+: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021 (CVPR WS).
+: [Code](https://github.com/arghosh/noisy_label_pretrain)
+
+* **[Option Tracing: Beyond Correctness Analysis in Knowledge Tracing](https://arxiv.org/abs/2104.09043)**
+: **Aritra Ghosh**, Jay Raspat, and Andrew  Lan.
+: International conference on artificial intelligence in education, 2021 (AIED).
+: [Code](https://github.com/arghosh/OptionTracing)
+
 * **[Do We Really Need Gold Samples for Sample Weighting under Label Noise?](https://openaccess.thecvf.com/content/WACV2021/papers/Ghosh_Do_We_Really_Need_Gold_Samples_for_Sample_Weighting_Under_WACV_2021_paper.pdf)**
 : **Aritra Ghosh**, and Andrew  Lan.
 : Proceedings of the 2021 IEEE Winter Conference on Applications of Computer Vision, 2021 (WACV).
