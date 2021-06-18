@@ -6,7 +6,7 @@
 * **[Contrastive Learning Improves Model Robustness Under Label Noise](https://arxiv.org/abs/2104.08984)**
 : **Aritra Ghosh**, and Andrew  Lan.
 : Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2021 (CVPR WS).
-: [Code](https://github.com/arghosh/noisy_label_pretrain)
+: [Code](https://github.com/arghosh/noisy_label_pretrain) [Video](https://www.youtube.com/watch?v=8sD2AzqMLgY)
 
 * **[Option Tracing: Beyond Correctness Analysis in Knowledge Tracing](https://arxiv.org/abs/2104.09043)**
 : **Aritra Ghosh**, Jay Raspat, and Andrew  Lan.
@@ -16,7 +16,7 @@
 * **[Do We Really Need Gold Samples for Sample Weighting under Label Noise?](https://openaccess.thecvf.com/content/WACV2021/papers/Ghosh_Do_We_Really_Need_Gold_Samples_for_Sample_Weighting_Under_WACV_2021_paper.pdf)**
 : **Aritra Ghosh**, and Andrew  Lan.
 : Proceedings of the 2021 IEEE Winter Conference on Applications of Computer Vision, 2021 (WACV).
-: [Code](https://github.com/arghosh/RobustMW-Net)
+: [Code](https://github.com/arghosh/RobustMW-Net) [Video](https://www.youtube.com/watch?v=HtMz8Te48Ec)
 
 * **[Skill-based Career Path Modeling and Recommendation](https://bigdataieee.org/BigData2020/)**
 : **Aritra Ghosh**, Beverly Woolf, Shlomo Zilberstein, and Andrew Lan.
@@ -26,7 +26,7 @@
 * **[Context-Aware Attentive Knowledge Tracing](https://arxiv.org/pdf/2007.12324.pdf)**
 : **Aritra Ghosh**, Neil Heffernan, and Andrew S Lan.
 : Proceedings of the 2020 ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2020 (KDD).
-: [Code](https://github.com/arghosh/AKT)
+: [Code](https://github.com/arghosh/AKT) [Video](https://dl.acm.org/doi/abs/10.1145/3394486.3403282)
 
 * **[Optimal Bidding Strategy without Exploration in Real-time Bidding](https://arxiv.org/pdf/2004.00100)**
 : **Aritra Ghosh**, Saayan Mitra, Somdeb Sarkhel, and Viswanathan Swaminathan.

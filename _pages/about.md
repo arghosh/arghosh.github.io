@@ -7,13 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student in Computer science (Machine Learning) at [UMass Amherst](https://www.cics.umass.edu/), advised by [Professor Andrew Lan](https://people.umass.edu/~andrewlan/). Previously, I was a Software Engineer at [Microsoft, Bangalore](https://www.microsoft.com/en-in/msidc/bangalore-campus.aspx); before that, I completed my Master in Electrical Engineering (Artificial Intelligence) at the [Indian Institute of Science, Bangalore (IISc)](http://www.ee.iisc.ac.in/), advised by [Professor P.S. Sastry](http://www.ee.iisc.ac.in/faculty/sastry/).
+I am a fourth year PhD candidate in Computer Science at [UMass Amherst](https://www.cics.umass.edu/), advised by [Professor Andrew Lan](https://people.umass.edu/~andrewlan/), with a focus on Machine learning. My PhD research is on improving data selection efficiency with differentiable optimization layers (and avoid *heuristic* informativeness measures).  Recently, I won the [NeurIPS 2020 education challenge](https://eedi.com/projects/neurips-education-challenge) for the task of improving question selection efficiency in personalized tests (e.g., GRE, GMAT). I also work on robust models for learning with limited, weakly supervised, and noisy labels. During my PhD, I was able to squeeze in two research internships at [Adobe Research](https://research.adobe.com/), advised [Dr. Saayan Mitra](https://research.adobe.com/person/saayan-mitra/), [Dr. Somdeb Sarkhel](https://research.adobe.com/person/somdeb-sarkhel/), and [Dr. Vishy Swaminathan](https://research.adobe.com/person/vishy-swaminathan/), where I was fortunate to work on optimal bidding strategy in real-time bidding systems. Before my PhD, I have been a Software Engineer (Applied Scientist) at the [Microsoft BingAds](https://www.microsoft.com/en-in/msidc/bangalore-campus.aspx) division where I had the opportunity to work on improving click performance and ad selection algorithms, working closely with [Rahul Agrawal](https://scholar.google.co.in/citations?user=AGrdeCIAAAAJ&hl=en). Even before that, I had amazing years in the [Indian Institute of Science, Bangalore (IISc)](http://www.ee.iisc.ac.in/), advised by [Professor P.S. Sastry](http://www.ee.iisc.ac.in/faculty/sastry/), where I had started working on robust learning under noisy labels. I have been fortunate to work with some amazing researchers and publish in many exciting machine learning/data mining conferences and workshops such as AAAI, CVPR, ICML, IJCAI, KDD, SIAM SDM. I also received the Best Student Paper Award from the [IEEE Big Data](https://bigdataieee.org/BigData2020/index.html) (2020) conference. 
 
-I have a broad interest in Machine/Deep learning, Graphical models, and Reinforcement learning. My Ph.D. research mainly focuses on learning sequential models from large-scale datasets. Besides, I am also interested in more theoretical questions from a learning perspective, such as robust learning under label noise.
+**My Biased Personal Views**
+My broad goal is to learn anything and everything and avoid introducing **any** human domain knowledge in the learning framework (apology to many great minds). *In most cases*, I am influenced by [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). Stay foolish and let the *Data* speak! Opinions expressed are solely my own and do not express the views or opinions of my employer.
 
 **Research Interest**
-  * Sequential Models, Variational Inference, Inverse Reinforcement Learning
-  * AI for Social Goods, Computational Advertising
+  * Meta Learning, Differentiable Optimization Layers, Bi-level Optimization
+  * Sequential Models, Reinforcement Learning, Inverse Reinforcement Learning
+  * Computational Advertising, Computer Vision, NLP, AI for Social Goods
 
 **Updates**
 <div class="posts-wrapper">
