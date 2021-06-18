@@ -11,7 +11,7 @@ I am a fourth year PhD candidate in Computer Science at [UMass Amherst](https://
 
 **My Biased Personal Views**
 
-My broad goal is to learn anything and everything and avoid introducing **any** human domain knowledge in the learning framework (apology to many great minds). In *most cases*, I am influenced by [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). Stay foolish and let the *Data* speak! Opinions expressed are solely my own and do not express the views or opinions of my employer.
+My broad goal is to learn *anything and everything* and avoid introducing **any** human domain knowledge in the learning framework (apologies to many great minds). In *most cases*, I am influenced by [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html). Stay foolish and let the *Data* speak! Opinions expressed are solely my own and do not express the views or opinions of my employer.
 
 **Research Interest**
   * Meta Learning, Differentiable Optimization Layers, Bi-level Optimization
