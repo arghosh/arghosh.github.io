@@ -22,9 +22,11 @@ My broad goal is to learn *anything and everything* and avoid introducing **any*
 <div class="posts-wrapper">
     <div class="post" style="width:800px;height:200px;border:1px solid;overflow:auto">
         <ul class="news">
-            <li><strong>April 2021: </strong>paper on computerized adaptive testing under bilevel framework has been accepted at <a href="https://ijcai-21.org/">IJCAI 2021</a> (13.9% Acceptance rate!).
+            <li><strong>Nov 2021: </strong> honored to receive <strong> 2021 Duolingo Dissertation Award</strong> .
             </li>
-            <li><strong>April 2021: </strong>paper on learning with noisy labels with contrastive initialization to appear at <strong>LLID Workhop</strong> at <a href="https://l2id.github.io/index.html">CVPR 2021</a>.
+            <li><strong>Apr 2021: </strong>paper on computerized adaptive testing under bilevel framework has been accepted at <a href="https://ijcai-21.org/">IJCAI 2021</a> (13.9% Acceptance rate!).
+            </li>
+            <li><strong>Apr 2021: </strong>paper on learning with noisy labels with contrastive initialization to appear at <strong>LLID Workhop</strong> at <a href="https://l2id.github.io/index.html">CVPR 2021</a>.
             </li>
             <li><strong>Dec 2020: </strong>honored to get the <strong>Best Student Paper Award</strong> at <a href="https://bigdataieee.org/BigData2020/">IEEE Big Data 2020</a>.
             </li>

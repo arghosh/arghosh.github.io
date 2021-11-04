@@ -36,6 +36,7 @@ Work experience
 
 Awards
 ======
+* [2021 Duolingo Dissertation Award](https://blog.duolingo.com/tag/duolingo-english-test/), November 2021.
 * Best Student Paper Award at [IEEE BigData Conference](https://bigdataieee.org/BigData2020/), December 2020.
 * Winner of Task 4 [NeurIPS 2020 Education Challenge](https://eedi.com/projects/neurips-education-challenge), November 2020.
 * Student Travel Grant Award in [KDD 2020](https://www.kdd.org/kdd2020/), July, 2020.
@@ -56,6 +57,6 @@ Publications
 
 Service
 ======
-* Program Committee Member: AAAI 2021, WACV 2021
+* Program Committee Member: AAAI 2021-2022, IJCAI 2021, WACV 2021-2022
 * Conference Volunteer: ICML 2020, KDD 2020, NeurIPS 2021
 
