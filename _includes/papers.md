@@ -1,4 +1,9 @@
-* **[BOBCAT: Bilevel Optimization-Based Computerized Adaptive Testing](https://ijcai-21.org/)**
+* **[DiPS: Differentiable Policy for Sketching in Recommender Systems](https://aaai.org/Conferences/AAAI-22/)**
+: **Aritra Ghosh**, Saayan Mitra, and Andrew  Lan.
+: Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence. 2021 (AAAI).
+: [Code](https://github.com/arghosh/DiPS)
+
+* **[BOBCAT: Bilevel Optimization-Based Computerized Adaptive Testing](https://arxiv.org/abs/2108.07386)**
 : **Aritra Ghosh**, and Andrew  Lan.
 : Proceedings of the 30th International Conference on Artificial Intelligence, 2021 (IJCAI).
 : [Code](https://github.com/arghosh/BOBCAT)
