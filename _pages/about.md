@@ -22,6 +22,8 @@ My broad goal is to learn *anything and everything* and avoid introducing **any*
 <div class="posts-wrapper">
     <div class="post" style="width:800px;height:200px;border:1px solid;overflow:auto">
         <ul class="news">
+            <li><strong>Jan 2022: </strong>our team was among the grand prize winners in  <a href="https://github.com/NAEP-AS-Challenge/info">NAEP Automated Scoring Challenge</a>. Check it out <a href="https://github.com/NAEP-AS-Challenge/info/blob/main/results.md">here</a>.
+            </li>
             <li><strong>Dec 2021: </strong>paper on Differentiable Sketching in Recommender Systems has been accepted at <a href="https://aaai.org/Conferences/AAAI-22/">AAAI 2022</a> (15% (1349/9020) Acceptance rate!).
             </li>
             <li><strong>Nov 2021: </strong> honored to receive <strong> 2021 Duolingo Dissertation Award</strong>.
