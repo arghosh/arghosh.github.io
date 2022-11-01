@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aritra Ghosh"
 title_separator          : "-"
 name                     : &name "Aritra Ghosh"
-description              : &description "PhD Student at UMass Amherst"
+description              : &description "Research Scientist at Meta"
 url                      : https://arghosh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arghosh.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Aritra Ghosh"
   avatar           : "profile.jpg"
-  bio              : "Machine Learning Researcher, PhD Student, UMass Amherst"
-  location         : "Amherst, MA"
+  bio              : "Machine Learning Researcher, Research Scientist, Meta"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=d5vFQy0AAAAJ&hl=en"
-  email            : arighosh [at] cs [dot] umass [dot] edu
+  email            : arighosh [at] meta [dot] com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "aritra-ghosh-93200158"
+  linkedin         : "arighosh"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
