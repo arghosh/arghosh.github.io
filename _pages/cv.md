@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* Research Scientist, Sept 2022 - Present
+* Research Scientist, September 2022 - Present
   * Meta, Seattle, USA
   * Data sub-sampling algorithms for Facebook Ads
 
@@ -32,9 +32,9 @@ Work experience
 
 Education
 ======
-* Ph.D in Computer Science, University of Massachusetts, Sep 2017- Aug 2022
+* Ph.D in Computer Science, University of Massachusetts, September 2017- August 2022
   * Advisor: Professor Andrew Lan
-* M.S. in Electrical Engineering, Indian Institute of Science, Aug 2012- Jul 2014
+* M.S. in Electrical Engineering, Indian Institute of Science, August 2012- July 2014
   * Advisor: Professor P.S. Sastry  
 
 Awards
