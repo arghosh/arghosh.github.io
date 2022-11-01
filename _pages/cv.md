@@ -39,7 +39,7 @@ Education
 
 Awards
 ======
-* Won the grand prize in [2022 NAE Automated Scoring Challenge](https://github.com/NAEP-AS-Challenge/info/blob/main/results.md), Jan 2022. [[Press Release](https://nces.ed.gov/whatsnew/press_releases/1_21_2022.asp)]
+* Won the grand prize in [2021 NAEP Automated Scoring Challenge](https://github.com/NAEP-AS-Challenge/info/blob/main/results.md), Jan 2022. [[Press Release](https://nces.ed.gov/whatsnew/press_releases/1_21_2022.asp)]
 * [2021 Duolingo Dissertation Award](https://blog.duolingo.com/tag/duolingo-english-test/), November 2021.
 * Best Student Paper Award at [IEEE BigData Conference](https://bigdataieee.org/BigData2020/), December 2020.
 * Winner of Task 4 [NeurIPS 2020 Education Challenge](https://eedi.com/projects/neurips-education-challenge), November 2020.
