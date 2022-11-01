@@ -9,15 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Computer Science, University of Massachusetts, 2017-2022 (expected)
-  * Advisor: Professor Andrew Lan
-* M.S. in Electrical Engineering, Indian Institute of Science, 2012-2014
-  * Advisor: Professor P.S. Sastry
-
 Work experience
 ======
+* Research Scientist, Sept 2022 - Present
+  * Meta, Seattle, USA
+  * Data sub-sampling algorithms for Facebook Ads
+
 * Research Intern, Machine Learning, Summer 2019
   * Adobe Research, San Jose, CA, USA
   * Optimal Bidding Strategy in Real-time Bidding System
@@ -32,7 +29,13 @@ Work experience
   * Microsoft Corporation, Bangalore, India
   * Selection and Relevance Algorithms in Sponsored Search (Bing Ads/ Microsoft Advertising)
   * Supervisor: Rahul Agrawal
-  
+
+Education
+======
+* Ph.D in Computer Science, University of Massachusetts, Sep 2017- Aug 2022
+  * Advisor: Professor Andrew Lan
+* M.S. in Electrical Engineering, Indian Institute of Science, Aug 2012- Jul 2014
+  * Advisor: Professor P.S. Sastry  
 
 Awards
 ======
