@@ -22,6 +22,10 @@ My broad goal is to learn *anything and everything* and avoid introducing **any*
 <div class="posts-wrapper">
     <div class="post" style="width:800px;height:200px;border:1px solid;overflow:auto">
         <ul class="news">
+            <li><strong>Sep 2022: </strong>joined Meta as Research Scientist.
+            </li>
+            <li><strong>Aug 2022: </strong>successfully defended my PhD thesis.
+            </li>
             <li><strong>Jan 2022: </strong>our team was among the grand prize winners in  <a href="https://github.com/NAEP-AS-Challenge/info">NAEP Automated Scoring Challenge</a>. Check it out <a href="https://github.com/NAEP-AS-Challenge/info/blob/main/results.md">here</a>.
             </li>
             <li><strong>Dec 2021: </strong>paper on Differentiable Sketching in Recommender Systems has been accepted at <a href="https://aaai.org/Conferences/AAAI-22/">AAAI 2022</a> (15% (1349/9020) Acceptance rate!).
@@ -40,7 +44,7 @@ My broad goal is to learn *anything and everything* and avoid introducing **any*
             </li>
             <li><strong>Nov 2020: </strong>paper on optimal career trajectory modeling to appear at <a href="https://bigdataieee.org/BigData2020/">IEEE Big Data 2020</a>. Paper/codes will be released soon.
             </li>
-            <li><strong>Sep 2020: </strong>I will be serving as Program committee member for <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a> and <a href="http://wacv2021.thecvf.com/home">WACV 2021</a> .
+            <li><strong>Sep 2020: </strong>will be serving as Program committee member for <a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a> and <a href="http://wacv2021.thecvf.com/home">WACV 2021</a> .
             </li>
             <li><strong>Aug 2020: </strong>selected for <a href="https://www.kdd.org/kdd2020/">KDD 2020</a> Student Award!
             </li>
@@ -54,13 +58,13 @@ My broad goal is to learn *anything and everything* and avoid introducing **any*
             </li> -->
             <li><strong>May 2019: </strong>paper on <a href="https://pdfs.semanticscholar.org/cdbe/99c87f0e94e363acba70b015360ec7d63521.pdf">point processes</a> to appear at ICML Time series workshop 2019.
             </li>
-            <li><strong>May 2019: </strong> I will be joining Adobe Research, San Jose for internship (again).
+            <li><strong>May 2019: </strong> will be joining Adobe Research, San Jose for internship (again).
             </li>
-            <li><strong>Sep 2018: </strong> Had a great summer at Adobe Research, San Jose.
+            <li><strong>Sep 2018: </strong> had a great summer at Adobe Research, San Jose.
             </li>
-            <li><strong>Aug 2017: </strong> Last day at Microsoft!
+            <li><strong>Aug 2017: </strong> last day at Microsoft!
             </li>
-            <li><strong>Jul 2017: </strong> I will be joining UMass Amherst for PhD in Computer Science.
+            <li><strong>Jul 2017: </strong> will be joining UMass Amherst for PhD in Computer Science.
             </li>
             <li><strong>Feb 2017: </strong>paper on <a href="http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14759/14355">robust loss functions for deep networks</a> to appear at AAAI 2017.
             </li>
