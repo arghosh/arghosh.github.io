@@ -1,7 +1,20 @@
+* **[Learning from Sequential User Data: Models and  Sample-efficient Algorithms](https://scholarworks.umass.edu/dissertations_2/2744/)**
+: **Aritra Ghosh**.
+: Doctoral Dissertation. 2023 ([UMass Amherst](https://www.umass.edu/)).
+
+* **[DiFA: Differentiable Feature Acquisition]()**
+: **Aritra Ghosh**, and Andrew  Lan.
+: Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence. 2023 ([AAAI](https://aaai.org/Conferences/AAAI-23/)).
+: [Code](https://github.com/arghosh/DiFA)
+
 * **[DiPS: Differentiable Policy for Sketching in Recommender Systems](https://arxiv.org/abs/2112.07616)**
 : **Aritra Ghosh**, Saayan Mitra, and Andrew  Lan.
-: Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence. 2021 ([AAAI](https://aaai.org/Conferences/AAAI-22/)).
+: Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence. 2022 ([AAAI](https://aaai.org/Conferences/AAAI-22/)).
 : [Code](https://github.com/arghosh/DiPS)
+
+* **[Automated scoring for reading comprehension via in-context bert tuning](https://arxiv.org/pdf/2205.09864)**
+: Nigel Fernandez, **Aritra Ghosh**, Naiming Liu, Zichao Wang, Benoît Choffin, Richard Baraniuk, and Andrew Lan.
+: Proceedings of the 23rd International Conference on Artificial Intelligence in Education. 2022 ([AIED](https://aied2022.webspace.durham.ac.uk/)).
 
 * **[BOBCAT: Bilevel Optimization-Based Computerized Adaptive Testing](https://arxiv.org/abs/2108.07386)**
 : **Aritra Ghosh**, and Andrew  Lan.
